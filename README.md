@@ -4,3 +4,5 @@
 Para utilizar el sistema debes instalar:
 
 ```` npm install react ````
+
+Sistema de registro 2
