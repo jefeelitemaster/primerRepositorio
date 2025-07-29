@@ -3,4 +3,4 @@
 
 Para utilizar el sistema debes instalar:
 
-´´´ npm install react ´´´
+```` npm install react ````
